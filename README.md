@@ -111,7 +111,7 @@ Instead of blindly approving a contract, they:
 - Community-driven contract reviews
 - Advanced risk scoring using on-chain data
 
-## Pitch Summary
+## Summary
 
 Millions of users interact with smart contracts without understanding them.
 
@@ -119,7 +119,7 @@ Revea acts as a safety layer for Web3 — translating complex blockchain code in
 
 ## Vision
 
-To make blockchain interactions safe, transparent, and accessible for everyone — not just developers.
+To make blockchain interactions safe, transparent, and accessible for everyone, not just developers.
 
 ## Contributing
 
